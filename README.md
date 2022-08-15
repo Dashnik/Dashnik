@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I’m interested in software testing and developing products
+- I’m interested in software testing and developing products
 
 
 <!--
